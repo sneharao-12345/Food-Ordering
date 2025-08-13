@@ -1,0 +1,44 @@
+body{
+    background-image: url(food3.jpg);
+    background-repeat: no-repeat;
+    background-size: 1650px 700px;
+}
+form{
+    border: solid 3px #00ffff;
+    width: 450px;
+    margin-left: 50px;
+    padding-left: 10px;
+}
+h1{
+    text-align: center;
+    color: #c0ffd8;
+}
+label{
+    font-size: 23px;
+    font-weight: bold;
+    color: #e2c62b;
+
+}
+input{
+    height: 30px;
+    width: 300px;
+    border-radius: 30px;
+    margin-bottom: 10px;
+}
+button{
+    height: 50px;
+    width: 150px;
+    border-radius: 20px;
+    background-color: blueviolet;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+}
+button:hover{
+    background-color: #00ff6a;
+    color: #ff0000;
+}
+p{
+    color: #e2c62b;
+    font-size: 20px;
+}

@@ -1,0 +1,28 @@
+body{
+    background-image: url(food2.png);
+}
+form{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+/* input{
+    border: none;
+    background: none;
+    outline: none;
+    border-bottom-style: white;
+    border-radius: 0%;
+    border-bottom-width:5px ;
+} */
+ p{
+    color: #ff0000;
+ }
+ h1{
+    color: #000080;
+ }
+ form{
+    border: solid 10px #000000;
+ }
+ label{
+    font-size: 24px;
+    color: #800000;
+ }
